@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Telemedicine</string>
+    <string name="healthcare">HealthCare</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
